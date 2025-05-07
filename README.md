@@ -1,4 +1,4 @@
-# `@elizaos/plugin-bnb`
+# `@bnb-chain/eliza-plugin-bnb-v2`
 
 This plugin enables interaction with the BNB Chain ecosystem, providing support for BNB Smart Chain, opBNB, and BNB Greenfield networks.
 
@@ -168,19 +168,3 @@ Support greenfield chain actions
 
 
 
-
-
-
----
-
-## Contribution
-
-The plugin contains tests. Whether you're using **TDD** or not, please make sure to run the tests before submitting a PR.
-
-### Running Tests
-
-Navigate to the `plugin-bnb` directory and run:
-
-```bash
-pnpm test
-```
